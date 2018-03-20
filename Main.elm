@@ -7,9 +7,6 @@ import Set exposing (Set)
 import Http
 
 
--- yarn add create-elm-app
--- create-elm-app hangman
--- elm-app start
 ---- MODEL ----
 
 
