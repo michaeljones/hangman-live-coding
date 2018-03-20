@@ -1,0 +1,45 @@
+body {
+  font-family: 'Source Sans Pro', 'Trebuchet MS', 'Lucida Grande',
+    'Bitstream Vera Sans', 'Helvetica Neue', sans-serif;
+  font-size: 40px;
+  margin: 0;
+  text-align: center;
+  color: #293c4b;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+img {
+  margin: 20px 0;
+  max-width: 200px;
+}
+
+span {
+  padding: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+
+  border: none;
+  border-radius: 3px;
+
+  background-color: #a7dbdb;
+}
+
+button:disabled {
+  background-color: #e0e4cc;
+}
+
+.container {
+  width: 60%;
+}
